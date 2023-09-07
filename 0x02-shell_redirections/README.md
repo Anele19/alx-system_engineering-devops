@@ -1,2 +1,1 @@
-#!/bin/bas
-echo "Hello, World"  
+Owethu readme file
